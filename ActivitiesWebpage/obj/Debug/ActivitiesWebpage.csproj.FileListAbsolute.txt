@@ -50,3 +50,12 @@ C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\Mongo
 C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\MongoDB.Bson.xml
 C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\MongoDB.Driver.xml
 C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\MongoDB.Driver.Legacy.xml
+C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\Newtonsoft.Json.dll
+C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\System.Net.Http.Formatting.dll
+C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\System.Web.Http.dll
+C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\System.Web.Http.WebHost.dll
+C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\Newtonsoft.Json.xml
+C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\System.Net.Http.Formatting.xml
+C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\System.Web.Http.xml
+C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\bin\System.Web.Http.WebHost.xml
+C:\Users\ocall\Desktop\Dev\Sandbox\ActivitiesWebpage\ActivitiesWebpage\obj\Debug\ActivitiesWebpage.csprojResolveAssemblyReference.cache
